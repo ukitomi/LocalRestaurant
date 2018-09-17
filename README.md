@@ -6,12 +6,11 @@ A restaurant recommendation system based on Yelp API.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
-
 
 Local Development Software: 
 [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -38,6 +37,10 @@ After installing all the necessary softwares, pull the repository to a local dir
 Launch the project on Eclipse. 
 
 Find the index.html file under WEB CONTENT, and run as Tomcat server.
+
+## How it works
+
+After you start up the server as instructed, the webpage index.html will pop up. What it did right there is that it takes your location and fetch your nearby restaurants to you. You are also able to favorite the restaurant and un-favorite them from your favorite list.
 
 ## Built With
 
