@@ -38,7 +38,7 @@ Launch the project on Eclipse.
 
 Find the index.html file under WEB CONTENT, and run as Tomcat server.
 
-## How it works
+### How it works
 
 After you start up the server as instructed, the webpage index.html will pop up. What it did right there is that it takes your location and fetch your nearby restaurants to you. You are also able to favorite the restaurant and un-favorite them from your favorite list.
 
