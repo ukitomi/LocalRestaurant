@@ -1,4 +1,4 @@
-# Titan
+# Silvia-rest
 
 A restaurant recommendation system based on Yelp API.
 
